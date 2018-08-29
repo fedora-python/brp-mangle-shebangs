@@ -1,8 +1,3 @@
-# $ python3.7 -m venv __venv__
-# $ . __venv__/bin/activate
-# (__venv__) $ python -m pip install pytest
-# (__venv__) $ python -m pytest -v test_brp_mangle_shebangs.py
-
 import os
 import pathlib
 import subprocess
