@@ -1,10 +1,1 @@
-Tests for brp-mangle-shebangs
-
-Usage:
-
-    $ python3.7 -m venv __venv__
-    $ . __venv__/bin/activate
-    (__venv__) $ python -m pip install pytest
-    (__venv__) $ python -m pytest -v test_brp_mangle_shebangs.py
-
-License: https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement (MIT)
+Moved to →→→ https://github.com/rpm-software-management/rpm-extras/tree/master/brpscripts/Fedora
